@@ -23,6 +23,8 @@
 - added: tree
 - updated: wpasupplicant
 - updated: libtommath1
+```
+```
 1.6.19-1:
 - Fixed: setuid for Policy Kit
 - added: ntp

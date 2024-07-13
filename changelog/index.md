@@ -66,12 +66,6 @@ Hope you enjoy running GoldenDog Linux!!!
 - Fixed polkit permissions
 - Fixed root uid for sudo / pkexec / gpasswd 
 - Fixed global permission enforcing
-- added: Python 3
-- added: mlocate
-- fixed: dbus helper setuid
-- fixed "About this system" (Now shows GoldenDog 1.6.19)
-- fixed os-release
-- fixed integrity check
 ```
 
 ```

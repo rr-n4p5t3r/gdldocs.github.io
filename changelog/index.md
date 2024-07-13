@@ -1,6 +1,24 @@
-<h3>Goldendog 1.6.19c</h3>
+<h3>Goldendog Linux 1.6.19-rc4</h3>
+
+These are the changelog for the release candidate builds. During this stage expect more builds based on 
+the reports of the testing team. 
+
+Hope you enjoy running GoldenDog Linux!!!
+
+- Alexia
 
 ### Changelog
+
+1.6.19-4:
+```
+- Fixed: bash prompt and added new prompt options to .bashprompts
+  To select your favourite one, comment the one you dont want, and uncomment the one you want to use,
+  then run source .bashprompts
+  If you want to add more custom prompts, add them on this file.
+  This new prompt helps render everything in screen correctly and doesn't wrap the text. 
+  Also considers chroot (debian_chroot)
+```
+
 
 ```
 1.6.19-3: 

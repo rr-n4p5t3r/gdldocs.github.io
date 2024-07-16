@@ -1,2 +1,2 @@
-# gdldocs.github.io
-Documentation Portal for GoldenDog Linux
+### GoldenDog Linux Documentation
+

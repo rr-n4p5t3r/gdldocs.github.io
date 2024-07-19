@@ -1,3 +1,3 @@
 - Translations
-    - [:uk: English](/)
-    - [:es: Español](/es/)
+    - [:us: English](/)
+    - [🇲🇽 Español](/es/)

@@ -1,3 +1,0 @@
-### GoldenDog Linux Documentation
-
-test

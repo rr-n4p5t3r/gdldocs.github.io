@@ -316,7 +316,7 @@ main.hidden {
 
 .sidebar ul li a {
 	border-bottom: none;
-	display: block
+	display: block;
 }
 
 .sidebar ul li ul {
@@ -732,10 +732,13 @@ body {
 
 .sidebar {
 	color: var(--textColor);
+	overflow-y: scroll;
+  	scrollbar-color: var(--scrollColorPrim) var(--scrollColorSec);
+  	scrollbar-width: thin;
 }
 
 .sidebar li {
-	margin: 6px 0
+	margin-left:2px;
 }
 
 .sidebar ul li a {
@@ -743,9 +746,10 @@ body {
 	font-size: 14px;
 	font-weight: 400;
 	overflow: hidden;
+	padding-left:13px;
+	white-space: nowrap;
 	text-decoration: none;
 	text-overflow: ellipsis;
-	white-space: nowrap
 }
 
 .sidebar ul li a:hover {
@@ -753,19 +757,21 @@ body {
 }
 
 .sidebar ul li ul {
-	padding: 0
+	padding: 0;
 }
 
 .sidebar ul li.active>a {
-	border-right: 2px solid;
+	font-weight: 600;
 	color: var(--accent);
-	font-weight: 600
+	border-right: 3px solid;
+	margin-right:8px;
+	background:var(--backgroundli);
 }
 
 .app-sub-sidebar li:before {
 	content: "-";
+	float: left;
 	padding-right: 4px;
-	float: left
 }
 
 .markdown-section h1,

@@ -1,8 +1,3 @@
-# Quick Start
-
-Quick Start Page
-
-
 ### How to contribute to Documentation
 
 1.  Fork the official Goldendog Linux Documentation [Repository](https://github.com/gdldocs/gdldocs.github.io).

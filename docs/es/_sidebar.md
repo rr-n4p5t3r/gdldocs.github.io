@@ -4,6 +4,7 @@
     - [Grabar GDL en USB](crear-usb.md)
     - [Especificaciones del sistema](especificaciones-sistema.md)
     - [Descargas adicionales](extras.md)
+    - [Como Contribuir](como-contribuir.md)
 - Comunidad
     - [Discord and IRC](redes.md)
     - [Scripts de la comunidad ](scripts-comunidad.md)

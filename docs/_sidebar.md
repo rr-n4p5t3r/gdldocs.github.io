@@ -4,6 +4,7 @@
     - [Burn GDL to USB](create-usb.md)
     - [System Specs](system-specs.md)
     - [Extra Downloads](extras-md)
+    - [How to Contribute](how-contribute.md)
 - Community
     - [Discord and IRC](socials.md)
     - [Community Scripts](community-scripts.md)

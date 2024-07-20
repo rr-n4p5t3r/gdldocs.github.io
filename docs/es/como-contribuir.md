@@ -1,8 +1,3 @@
-# Empezando
-
-Empezando
-
-
 ### Como Contribuir con la Documentación de GoldenDog
 
 1. Crea un fork desde el [Repositorio](https://github.com/gdldocs/gdldocs.github.io) oficial de Goldendog Linux. 

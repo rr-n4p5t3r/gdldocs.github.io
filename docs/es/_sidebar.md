@@ -1,2 +1,15 @@
-- Comenzando
-    - [Guia Rápida](guia-rapida.md)
+- Empezando
+    - [Instalar GDL](instalar-gdl.md)
+- Documentación
+    - [Grabar GDL en USB](crear-usb.md)
+    - [Especificaciones del sistema](especificaciones-sistema.md)
+    - [Descargas adicionales](extras.md)
+- Comunidad
+    - [Discord and IRC](redes.md)
+    - [Scripts de la comunidad ](scripts-comunidad.md)
+- Equipos
+    - [Desarrollo](teams-dev.md)
+    - [Web](teams-web.md)
+    - [Testeo](teams-testeo.md)
+    - [Documentación](teams-documentacion.md)
+    - [Comunidad](teams-comunidad.md)

@@ -1,5 +1,3 @@
-# GoldenDog Linux Documentation Style Guide
-
 To maintain a consistent language and style across our documentation, we use these guidelines. We value your content over strict adherence to formatting rules, so don't worry about mastering the entire style guide before you contribute. However, expect that other contributors might edit your work to match this guide. When you submit a content pull request, reviewers may refer you to these guidelines.
 
 ## Consider the Three Cs of Writing

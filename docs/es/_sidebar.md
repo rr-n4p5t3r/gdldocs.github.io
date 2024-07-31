@@ -1,16 +1,27 @@
-- Empezando
-    - [Instalar GDL](instalar-gdl.md)
-- Documentación
-    - [Grabar GDL en USB](crear-usb.md)
-    - [Especificaciones del sistema](especificaciones-sistema.md)
-    - [Descargas adicionales](extras.md)
-    - [Como Contribuir](como-contribuir.md)
-- Comunidad
-    - [Discord and IRC](redes.md)
-    - [Scripts de la comunidad ](scripts-comunidad.md)
-- Equipos
-    - [Desarrollo](teams-dev.md)
-    - [Web](teams-web.md)
-    - [Testeo](teams-testeo.md)
-    - [Documentación](teams-documentacion.md)
-    - [Comunidad](teams-comunidad.md)
+* Empezando
+- [Instalar GDL](instalar-gdl.md)
+* Documentación
+- [Grabar GDL en USB](crear-usb.md)
+- [Especificaciones del sistema](especificaciones-sistema.md)
+- [Descargas adicionales](extras.md)
+* Información para contribuir (Doc)
+- [Como Contribuir](como-contribuir.md)
+    - [Informacion Adicional](como-contribuir.md#información-adicional)
+        - [- Estructura de carpetas](como-contribuir.md#estructura-de-carpetas)
+        - [- Archivo Sidebar](como-contribuir.md#archivo-_sidebarmd)
+        - [- Plugins](como-contribuir.md#complementos-plugins)
+        - [- Docsify Cli](como-contribuir.md#docsify-cli-a-servidor-local)
+    - [Como hacer Fork](como-hacer-fork.md)
+        - [- Pasos Iniciales](como-hacer-fork.md#pasos-iniciales)
+        - [- Crear una nueva rama](como-hacer-fork.md#crear-una-nueva-rama)
+        - [- Pull request](como-hacer-fork.md#realizar-cambios-y-crear-pull-request)
+        - [- Sugerencias](como-hacer-fork.md#sugerencias-para-nombres-de-ramas-y-commits)
+* Comunidad
+- [Discord and IRC](redes.md)
+- [Scripts de la comunidad ](scripts-comunidad.md)
+* Equipos
+- [Desarrollo](teams-dev.md)
+- [Web](teams-web.md)
+- [Testeo](teams-testeo.md)
+- [Documentación](teams-documentacion.md)
+- [Comunidad](teams-comunidad.md)

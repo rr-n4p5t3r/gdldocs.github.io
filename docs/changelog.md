@@ -1,11 +1,22 @@
-<h3>Goldendog Linux 1.6.19-rc5</h3>
+# GoldenDog Linux 1.6.19-rc6
 
-These are the changelog for the release candidate builds. During this stage expect more builds based on 
-the reports of the testing team. 
+These are the changelog for the release candidate builds. During this stage expect more builds based on
+the reports of the testing team.
 
 Hope you enjoy running GoldenDog Linux!!!
 
-- Alexia
+- Alexia.
+
+1.6.19-rc6:
+
+```
+Fixed: APT Official Debian Repositories
+Improved: Integrity Check
+Added: btop (An HTOP alternative)
+Added: ncdu (See Disk Usage from the terminal)
+Fixed: Repository Order
+Fixed: goldendog-clear service
+```
 
 ### Changelog
 

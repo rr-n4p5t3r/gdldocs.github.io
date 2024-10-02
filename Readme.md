@@ -51,7 +51,6 @@ Documentación oficial de GoldenDog Linux
 - **actualizaciones.md**
 - **Readme.md**
 
-
 ### Actualizaciones
 
 - `actualizaciones.md`
